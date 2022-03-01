@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divine meditations on the last words of our saviour, and the two thieves upon the cross.</title>
+            <author>Shaw, John, 1614-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10015</idno>
+            <idno type="STC">Wing S3032A</idno>
+            <idno type="STC">ESTC R184044</idno>
+            <idno type="EEBO-CITATION">69648931</idno>
+            <idno type="OCLC">ocm 69648931</idno>
+            <idno type="VID">185083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10015)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185083)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2886:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divine meditations on the last words of our saviour, and the two thieves upon the cross.</title>
+                  <author>Shaw, John, 1614-1689.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Walsall at the Heart and Bible near the West End of the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At end of text: "By John Shaw."</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Seven last words --  Early works to 1800.</term>
+               <term>Jesus Christ --  Crucifixion --  Early works to 1800.</term>
+               <term>Meditations --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:185083:1" rendition="simple:additions"/>
+            <head>DIVINE MEDITATIONS On the Laſt Words of Our SAVIOUR, And the Two THIEVES upon the Croſs.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="4"> </cell>
+                     <cell cols="3">{Jeſus Nazaritae Rex Judaeorum.}</cell>
+                     <cell cols="4"> </cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Behold, O God,</cell>
+                     <cell role="label" cols="3">IN RI</cell>
+                     <cell cols="4">vers of my Tears,</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">I Come to thee,</cell>
+                     <cell role="label"> </cell>
+                     <cell cols="5">Bow down thy Bleſſed Ears</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">To hear me, Wretch, O</cell>
+                     <cell role="label"> </cell>
+                     <cell cols="5">thou whoſe Eyes to ſleep</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Didſt never cloſe</cell>
+                     <cell role="label"> </cell>
+                     <cell cols="5">Behold a Sinner Weep:</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Let then</cell>
+                     <cell role="label" cols="2">O GOD,</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">MY GOD,</cell>
+                     <cell cols="2">my Faults, though great,</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Be heal'd</cell>
+                     <cell role="label">W</cell>
+                     <cell cols="5">ithin thy glorious Mercies Seat;</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">By Angels let my ſpirit to</cell>
+                     <cell role="label">H</cell>
+                     <cell cols="5">eaven be brought,</cell>
+                  </row>
+                  <row>
+                     <cell>Thou</cell>
+                     <cell role="label" cols="3">Lord Remember</cell>
+                     <cell>eſt th</cell>
+                     <cell role="label">Y</cell>
+                     <cell>ne</cell>
+                     <cell role="label" cols="3">If thou beeſt</cell>
+                     <cell>ſought.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">I Co</cell>
+                     <cell role="label">me</cell>
+                     <cell cols="2">not Lord wit</cell>
+                     <cell role="label">H</cell>
+                     <cell cols="2">any o</cell>
+                     <cell role="label">the</cell>
+                     <cell cols="2">r Merit</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Than</cell>
+                     <cell role="label">wh</cell>
+                     <cell cols="2">at I by my S</cell>
+                     <cell role="label">A</cell>
+                     <cell cols="2">viour</cell>
+                     <cell role="label">Ch</cell>
+                     <cell cols="2">riſt inherit;</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Be th</cell>
+                     <cell role="label">en</cell>
+                     <cell cols="2">his Wound</cell>
+                     <cell role="label">S</cell>
+                     <cell cols="2">my Balm, his St</cell>
+                     <cell role="label">ri</cell>
+                     <cell cols="2">pes my Bliſs,</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">My Crown his</cell>
+                     <cell role="label">Th</cell>
+                     <cell cols="2">ornes, my dea</cell>
+                     <cell role="label">T</cell>
+                     <cell cols="2">h be lo</cell>
+                     <cell role="label">ſt</cell>
+                     <cell cols="2">in his:</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">And th</cell>
+                     <cell role="label">ou</cell>
+                     <cell cols="2">my bleſ</cell>
+                     <cell role="label">T</cell>
+                     <cell cols="2">Redeemer,</cell>
+                     <cell role="label">Sa</cell>
+                     <cell cols="2">viour, God,</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Quit my Ac</cell>
+                     <cell role="label">co</cell>
+                     <cell cols="2">unts, with</cell>
+                     <cell role="label">H</cell>
+                     <cell cols="2">old thy</cell>
+                     <cell role="label">ve</cell>
+                     <cell cols="2">ngefull Rod;</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">O beg for</cell>
+                     <cell role="label">me</cell>
+                     <cell cols="2">my H</cell>
+                     <cell role="label">O</cell>
+                     <cell cols="2">pes on</cell>
+                     <cell role="label">T</cell>
+                     <cell cols="2">hee are ſet,</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">And Chri</cell>
+                     <cell role="label">ſt</cell>
+                     <cell cols="2">forgi</cell>
+                     <cell role="label">V</cell>
+                     <cell cols="2">e as well as pay t</cell>
+                     <cell role="label">h</cell>
+                     <cell cols="2">e Debt;</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">The live</cell>
+                     <cell role="label">in</cell>
+                     <cell cols="2">g Font, the li</cell>
+                     <cell role="label">F</cell>
+                     <cell cols="2">e, the Wa</cell>
+                     <cell role="label">y</cell>
+                     <cell cols="2">I know,</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">And but</cell>
+                     <cell role="label">to</cell>
+                     <cell cols="2">thee</cell>
+                     <cell role="label">O</cell>
+                     <cell cols="2">whither</cell>
+                     <cell role="label">ſ</cell>
+                     <cell cols="2">hould I goe?</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">All o</cell>
+                     <cell role="label">th</cell>
+                     <cell cols="2">er Helps a</cell>
+                     <cell role="label">R</cell>
+                     <cell cols="2">e vain, grant</cell>
+                     <cell role="label">e</cell>
+                     <cell cols="2">thine to me,</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">For in th</cell>
+                     <cell role="label">y</cell>
+                     <cell cols="2">Croſs my</cell>
+                     <cell role="label">S</cell>
+                     <cell cols="2">aving Hea</cell>
+                     <cell role="label">l</cell>
+                     <cell cols="2">th muſt be:</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">O hear</cell>
+                     <cell role="label">K</cell>
+                     <cell cols="2">en then wh</cell>
+                     <cell role="label">A</cell>
+                     <cell cols="2">t I with</cell>
+                     <cell role="label">F</cell>
+                     <cell cols="2">aith implore;</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Leaſt ſin</cell>
+                     <cell role="label">ing</cell>
+                     <cell cols="2">Sin</cell>
+                     <cell role="label">K'</cell>
+                     <cell cols="2">e me th</cell>
+                     <cell role="label">a</cell>
+                     <cell cols="2">t I riſe no more;</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">And me</cell>
+                     <cell role="label">D</cell>
+                     <cell cols="2">efe</cell>
+                     <cell role="label">N</cell>
+                     <cell cols="2">d that I may</cell>
+                     <cell role="label">n</cell>
+                     <cell cols="2">ever ſin,</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">When thou doſt c</cell>
+                     <cell role="label">om</cell>
+                     <cell cols="2">e let</cell>
+                     <cell role="label">M</cell>
+                     <cell cols="2">e be raiſe</cell>
+                     <cell role="label">d</cell>
+                     <cell cols="2">then,</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">To liv</cell>
+                     <cell role="label">e</cell>
+                     <cell cols="2">with th</cell>
+                     <cell role="label">E</cell>
+                     <cell cols="2">e, ſweet Jeſ</cell>
+                     <cell role="label">us</cell>
+                     <cell cols="2">ſay <hi>Amen.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <closer/>
+            <postscript>
+               <opener>
+                  <dateline>
+                     <date>April 11th 1687.</date>
+                  </dateline>
+               </opener>
+               <p>This may be Printed.</p>
+               <closer>
+                  <signed>R. M.</signed>
+               </closer>
+            </postscript>
+            <epigraph>
+               <q>
+                  <l>Lord, give me Grace my Life to mend,</l>
+                  <l>And make me fit for my Laſt End.</l>
+               </q>
+            </epigraph>
+            <byline>By <hi>JOHN SHAW.</hi>
+            </byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Walſall</hi> at the <hi>Heart</hi> and <hi>Bible</hi> near the Weſt End of the <hi>Royall Exchange</hi> in <hi>Cornhill,</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
